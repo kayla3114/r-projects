@@ -1,3 +1,4 @@
+#This R script analyzes personal expenses by reading a CSV file, formatting dates, calculating total spending, summarizing spending by category, and visualizing the data using bar and line charts. It provides insights into spending patterns over time and across different categories
 rm(list = ls())
 gc()
 setwd("/Users/kaylasamuel/Desktop/R")
