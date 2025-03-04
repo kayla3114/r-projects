@@ -4,6 +4,8 @@ Welcome! 👋
 I'm new to coding in R, and this repository is a place where I document my progress, experiments, and projects as I strengthen my skills. Whether it’s data analysis, visualization, or general scripting, I’m exploring different aspects of R and learning along the way.
 
 What to Expect
+
+
 ✔ Beginner-friendly R scripts and projects 📂
 
 
