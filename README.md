@@ -5,8 +5,14 @@ I'm new to coding in R, and this repository is a place where I document my progr
 
 What to Expect
 ✔ Beginner-friendly R scripts and projects 📂
+
+
 ✔ Data exploration and visualization with ggplot2 📊
+
+
 ✔ Hands-on practice with data manipulation 🛠️
+
+
 ✔ A growing collection of lessons and improvements over time 🔄
 
 Why This Repo Exists
