@@ -18,6 +18,8 @@ What to Expect
 ✔ A growing collection of lessons and improvements over time 🔄
 
 Why This Repo Exists
+
+
 This repository is all about learning in public—sharing my journey, mistakes, and progress. If you're also learning R or have tips to share, feel free to follow along, provide feedback, or suggest improvements!
 
 Let’s grow together. Happy coding! ✨
