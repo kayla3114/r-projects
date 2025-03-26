@@ -1,4 +1,4 @@
-Personal Expense Analysis in R
+##Personal Expense Analysis in R 
 
 This R script analyzes personal expenses by:
 
